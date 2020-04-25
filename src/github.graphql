@@ -1,0 +1,24 @@
+{
+  user(login: "__login__") {
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        months {
+          name
+          totalWeeks
+          year
+          firstDay
+        }
+        weeks {
+          contributionDays {
+            color
+            contributionCount
+            date
+            weekday
+          }
+          firstDay
+        }
+      }
+    }
+  }
+}

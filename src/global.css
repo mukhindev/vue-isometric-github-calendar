@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap&subset=cyrillic');
+
+html {
+  font-size: 15px;
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  scroll-behavior: smooth;
+  background-color: #FFF;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  display: block;
+  width: 100%;
+}
+
+p {
+  line-height: 1.3rem;
+}
+
+a {
+  color: #008A25;
+}
+
+.text-center {
+  text-align: center;
+}
+
+div {
+  transition: all 0.5s;
+}
+
+.container {
+  padding: 4rem;
+  margin: auto;
+  max-width: 1280px;
+}
+
+.card {
+  border: 2px solid #008A25;
+  padding: 1rem 0.5rem 1.5rem 0.5rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 1rem;
+}
+
+.col-4 {
+  grid-column: span 4;
+}
+
+@media screen and (max-width: 576px) {
+  .col-sm-12 {
+    grid-column: span 12
+  }
+
+  .container {
+    padding: 2rem 2rem;
+  }
+}
