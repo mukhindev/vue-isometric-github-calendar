@@ -6,7 +6,7 @@ Demo: https://mukhin.dev
 
 ## What's it? / Что это?
 
-EN: Github calendar in isometric on SVG and Vue.
+EN: Github calendar in isometric on SVG and Vue.  
 RU: Github календарь в изометрии на SVG и Vue.
 
 ## How to use? / Как использовать?
