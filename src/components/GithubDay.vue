@@ -42,12 +42,11 @@ export default {
     },
     color3d() {
       return function (color) {
-        if (color === '#ebedf0') return ['#C7C7C7', '#DEDEDE', '#F1F1F1']
-        if (color === '#c6e48b') return ['#B9C874', '#CBD888', '#DCEA9B']
-        if (color === '#7bc96f') return ['#70AA53', '#84BC68', '#98CE7C']
-        if (color === '#239a3b') return ['#008A25', '#2B9D3D', '#48B056']
-        if (color === '#196127') return ['#004F08', '#006417', '#157933']
-        return '#000000'
+        if (color === '#9be9a8') return ['#B9C874', '#CBD888', '#DCEA9B']
+        if (color === '#40c463') return ['#70AA53', '#84BC68', '#98CE7C']
+        if (color === '#30a14e') return ['#008A25', '#2B9D3D', '#48B056']
+        if (color === '#216e39') return ['#004F08', '#006417', '#157933']
+        return ['#C7C7C7', '#DEDEDE', '#F1F1F1']
       }
     },
     position2d() {
