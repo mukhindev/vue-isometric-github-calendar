@@ -42,10 +42,10 @@ export default {
     },
     color3d() {
       return function (color) {
-        if (color === '#9be9a8') return ['#B9C874', '#CBD888', '#DCEA9B']
-        if (color === '#40c463') return ['#70AA53', '#84BC68', '#98CE7C']
-        if (color === '#30a14e') return ['#008A25', '#2B9D3D', '#48B056']
-        if (color === '#216e39') return ['#004F08', '#006417', '#157933']
+        if (color === 'var(--color-calendar-graph-day-L1-bg)') return ['#B9C874', '#CBD888', '#DCEA9B']
+        if (color === 'var(--color-calendar-graph-day-L2-bg)') return ['#70AA53', '#84BC68', '#98CE7C']
+        if (color === 'var(--color-calendar-graph-day-L3-bg)') return ['#008A25', '#2B9D3D', '#48B056']
+        if (color === 'var(--color-calendar-graph-day-L4-bg)') return ['#004F08', '#006417', '#157933']
         return ['#C7C7C7', '#DEDEDE', '#F1F1F1']
       }
     },
