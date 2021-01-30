@@ -2,8 +2,6 @@
 
 ![github calendar isometric](./doc/assets/github-calendar-isometric.jpg)
 
-Demo: https://mukhin.dev
-
 ## What's it? / Что это?
 
 EN: Github calendar in isometric on SVG and Vue.  
