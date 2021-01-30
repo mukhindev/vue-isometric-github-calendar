@@ -1,4 +1,4 @@
-# vue-github-calendar-isometric
+# vue-isometric-github-calendar
 
 ![github calendar isometric](./doc/assets/github-calendar-isometric.jpg)
 
