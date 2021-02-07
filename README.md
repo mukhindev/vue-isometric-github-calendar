@@ -3,7 +3,7 @@
 ![github calendar isometric](./doc/assets/github-calendar-isometric.jpg)
 
 ## Is there the same on React? / Тоже самое, но на React?
-Yes there is 🙂 https://github.com/mukhindev/vue-github-calendar-isometric
+Yes there is 🙂 https://github.com/mukhindev/react-isometric-github-calendar
 
 ## What's it? / Что это?
 
