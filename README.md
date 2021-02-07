@@ -2,6 +2,9 @@
 
 ![github calendar isometric](./doc/assets/github-calendar-isometric.jpg)
 
+## Is there the same on React? / Тоже самое, но на React?
+Yes there is 🙂 https://github.com/mukhindev/vue-github-calendar-isometric
+
 ## What's it? / Что это?
 
 EN: Github calendar in isometric on SVG and Vue.  
